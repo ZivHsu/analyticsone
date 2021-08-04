@@ -1,0 +1,5 @@
+.create-or-alter function with (docstring = "Func_test",folder = "test/Func_test") 
+Func_test()
+{
+    print ('Test')
+}
