@@ -1,7 +1,7 @@
 .create-or-alter function with (docstring = "Func_test",folder = "test/Func_test") 
 Func_test()
 {
-    //update message
+    //update message 
     print ('This is test')
     
 }
